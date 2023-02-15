@@ -18,7 +18,7 @@ ProductTag.init(
       references: {
         model: 'product', //case sensitive
         key: 'id',
-        unique: false //DOES THIS NEED TO BE UNIQUE: TRUE???
+        // unique: false //DOES THIS NEED TO BE UNIQUE: TRUE???
       }
     },
     tag_id: {
@@ -26,7 +26,7 @@ ProductTag.init(
       references: {
         model: 'tag', //case sensitive
         key: 'id',
-        unique: false //DOES THIS NEED TO BE UNIQUE: TRUE???
+        // unique: false //DOES THIS NEED TO BE UNIQUE: TRUE???
       }
     }
   },

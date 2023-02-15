@@ -40,7 +40,7 @@ Product.init(
       references: {
         model: 'category', //case sensitive
         key: 'id',
-        unique: false //DOES THIS NEED TO BE UNIQUE: TRUE???
+        // unique: false //DOES THIS NEED TO BE UNIQUE: TRUE???
       }
     }
   },
