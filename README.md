@@ -18,13 +18,13 @@ To install the E-Commerce Back End, download [the repository](https://github.com
 ```
 git clone git@github.com:mshaari/e-commerce-back-end.git
 ```
- and open in Visual Studio Code. Run 
+in your command line and open in Visual Studio Code. Run 
  
- ```
- npm install
- ``` 
+```
+npm install
+``` 
  
- to install all dependencies. You must also create a ".env" file with the following text:
+to install all dependencies. You must also create a ".env" file with the following text:
 
 ```
 DB_NAME=library_db
