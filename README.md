@@ -40,7 +40,7 @@ npm run seed
 npm start
 ``` 
 
-Click [here](https://drive.google.com/file/d/1SrK5mG5d_PCaBIl41ElsEPABE-PAgAh0/view?usp=sharing) to watch a video demonstration of how to use the E-Commerce Back End.
+Click [here](https://drive.google.com/file/d/1Zu0hF7Ghakm8JL27GmrGXOo7KD_WJ1pA/view?usp=sharing) to watch a video demonstration of how to use the E-Commerce Back End.
 
 ## Contributing
 Please do not contribute to this application.
