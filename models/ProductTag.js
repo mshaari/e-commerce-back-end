@@ -16,17 +16,15 @@ ProductTag.init(
     product_id: {
       type: DataTypes.INTEGER,
       references: {
-        model: 'product', //case sensitive
+        model: 'product', 
         key: 'id',
-        // unique: false //DOES THIS NEED TO BE UNIQUE: TRUE???
       }
     },
     tag_id: {
       type: DataTypes.INTEGER,
       references: {
-        model: 'tag', //case sensitive
+        model: 'tag', 
         key: 'id',
-        // unique: false //DOES THIS NEED TO BE UNIQUE: TRUE???
       }
     }
   },

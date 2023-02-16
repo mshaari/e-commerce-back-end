@@ -38,9 +38,8 @@ Product.init(
     category_id: {
       type: DataTypes.INTEGER,
       references: {
-        model: 'category', //case sensitive
+        model: 'category',
         key: 'id',
-        // unique: false //DOES THIS NEED TO BE UNIQUE: TRUE???
       }
     }
   },
